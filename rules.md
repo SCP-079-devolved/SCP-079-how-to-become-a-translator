@@ -16,7 +16,7 @@ Use [This Website](https://discohook.org) for making a webhook for the rules, he
         },
         {
           "name": "Do not post NSFW imagery.",
-          "value": "We do not have an NSFW channel within this server, therefor NSFW breaks Discord ToS.\n\nPunishment: Perm Ban",
+          "value": "We do not have an NSFW channel within this server, therefor NSFW breaks Discord TOS.\n\nPunishment: Perm Ban",
           "inline": true
         },
         {
