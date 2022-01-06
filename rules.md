@@ -61,7 +61,7 @@ Use [This Website](https://discohook.org) for making a webhook for the rules, he
         }
       ],
       "footer": {
-        "text": "Every action has a consequence, don't be a dick and follow the fucking rule"
+        "text": "Every action has a consequence, don't be a dick and follow the fucking rules"
       }
     }
   ],
